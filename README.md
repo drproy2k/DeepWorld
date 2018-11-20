@@ -1,2 +1,0 @@
-# DeepWorld
-About Deep Learning
